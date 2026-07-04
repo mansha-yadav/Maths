@@ -32,3 +32,5 @@ else:
         print(N, "ITS PRIME")
     else:
         print(N, "NOT PRIME")
+
+
